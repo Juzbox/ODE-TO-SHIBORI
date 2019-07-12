@@ -1,3 +1,4 @@
+/*
 ODE-TO-SHIBORI
 ==============
 
@@ -5,7 +6,7 @@ A coded tribute to the traditional Japanese tie-dyeing technique, this is a proc
 
 
 
-/*
+
 SHIBORI is about: mathematical patterns, constraint, 
 subtle imperfections and experimentation.
 
